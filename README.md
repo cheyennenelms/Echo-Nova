@@ -17,7 +17,7 @@ Most artists have access to streaming analytics but can't use them effectively. 
 ## What's in this repo
 
 - `Echo Nova.pptx` — the full brand and business strategy presentation
-- `ECHO NOVA MASCOT.png` — "Nova," the brand's digital energy entity (data + sound fusion), created with AI image generation
+- `nova-mascot.png` — "Nova," the brand's digital energy entity (data + sound fusion), created with AI image generation
 
 ## Skills
 
