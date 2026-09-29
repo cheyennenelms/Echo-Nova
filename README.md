@@ -2,6 +2,9 @@
 
 A music data analytics brand concept built for independent artists and music creators who need to understand — and grow — their audience.
 
+## Meet Nova
+![Nova](images/nova-mascot.png)
+
 ## The idea
 
 Most artists have access to streaming analytics but can't use them effectively. Echo Nova bridges that gap: a brand and platform concept that transforms complex streaming data into visual, story-driven insights artists can actually act on — connecting data with emotion, not just numbers.
