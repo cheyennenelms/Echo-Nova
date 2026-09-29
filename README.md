@@ -3,7 +3,7 @@
 A music data analytics brand concept built for independent artists and music creators who need to understand — and grow — their audience.
 
 ## Meet Nova
-![Nova](images/nova-mascot.png)
+![Echo Nova](nova-mascot.png)
 
 ## The idea
 
